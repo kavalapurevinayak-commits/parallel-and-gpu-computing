@@ -1,7 +1,7 @@
 # Theme 10: Comparative Performance Analysis of CPU vs. GPU Data Processing (OpenMP and CUDA)
 
 
-- Course: Parallel & Distributed Computing Laboratory
+- Course: Parallel & GPU Computing Laboratory
 - System Details: Ubuntu 24.04 LTS (WSL2), GCC 13.x (OpenMP), NVIDIA CUDA (nvcc 13.3)
 
 ## 2. Laboratory Overview and Environment
