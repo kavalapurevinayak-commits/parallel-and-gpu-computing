@@ -1,6 +1,6 @@
 # Theme 10: Comparative Performance Analysis of CPU vs. GPU Data Processing (OpenMP and CUDA)
 
-- USN / Name: 01fe24bci076
+
 - Course: Parallel & Distributed Computing Laboratory
 - System Details: Ubuntu 24.04 LTS (WSL2), GCC 13.x (OpenMP), NVIDIA CUDA (nvcc 13.3)
 
